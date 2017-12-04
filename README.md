@@ -11,3 +11,11 @@
 - https://leetcode.com/problems/knight-probability-in-chessboard/description/
 - https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/
 - https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
+
+### Greedy
+- https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/
+
+### Graph
+- https://leetcode.com/problems/binary-tree-postorder-traversal/description/
+- https://leetcode.com/problems/binary-tree-preorder-traversal/description/
+- https://leetcode.com/problems/binary-tree-inorder-traversal/description/
