@@ -20,3 +20,6 @@
 - https://leetcode.com/problems/binary-tree-postorder-traversal/description/
 - https://leetcode.com/problems/binary-tree-preorder-traversal/description/
 - https://leetcode.com/problems/binary-tree-inorder-traversal/description/
+
+### Sorting and Searching
+- https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/
