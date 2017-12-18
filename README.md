@@ -1,6 +1,8 @@
 # leet-code
 ## Good Questions
 
+### Ad-Hoc
+- https://leetcode.com/problems/single-number/description/
 ### Backtracking
 - https://leetcode.com/problems/longest-palindromic-substring/description/
 - https://leetcode.com/problems/3sum/description/
