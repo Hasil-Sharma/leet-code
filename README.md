@@ -3,6 +3,8 @@
 
 ### Ad-Hoc
 - https://leetcode.com/problems/single-number/description/
+- https://leetcode.com/problems/excel-sheet-column-number/description/
+
 ### Backtracking
 - https://leetcode.com/problems/longest-palindromic-substring/description/
 - https://leetcode.com/problems/3sum/description/
