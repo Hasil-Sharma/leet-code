@@ -4,6 +4,7 @@
 ### Ad-Hoc
 - https://leetcode.com/problems/single-number/description/
 - https://leetcode.com/problems/excel-sheet-column-number/description/
+- https://leetcode.com/problems/linked-list-cycle/description/
 
 ### Backtracking
 - https://leetcode.com/problems/longest-palindromic-substring/description/
