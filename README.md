@@ -34,3 +34,6 @@
 
 ### Sorting and Searching
 - https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/
+
+### Array
+- https://leetcode.com/problems/shortest-unsorted-continuous-subarray/description/
