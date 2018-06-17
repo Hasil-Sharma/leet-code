@@ -1,0 +1,14 @@
+// https://leetcode.com/problems/range-addition-ii/description/
+
+class Solution {
+public:
+    int maxCount(int m, int n, vector<vector<int>>& ops) {
+        int r1 = m, r2 = n;
+        for(vector<int>& op : ops){
+            r1 = min(op[0], r1);
+            r2 = min(op[1], r2);
+        }
+        
+        return r1*r2;
+    }
+};
