@@ -14,17 +14,17 @@ public:
     TreeNode* invertTree(TreeNode* root) {
         TreeNode *ans;
         
-        stack<pair<TreeNode*, TreeNode*&>> stk;
+        queue<pair<TreeNode*, TreeNode*&>> q;
         
-        stk.push({root, ans});
+        q.push({root, ans});
         
-        while(!stk.empty()){
-            auto top = stk.top();
-            stk.pop();
+        while(!q.empty()){
+            auto top = q.front();
+            q.pop();
             top.second = top.first;
             if (top.first){
-                stk.push({top.first->left, top.second->right});
-                stk.push({top.first->right, top.second->left});
+                q.push({top.first->left, top.second->right});
+                q.push({top.first->right, top.second->left});
             }
         }
         return ans;
