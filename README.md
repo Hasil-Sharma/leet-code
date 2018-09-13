@@ -32,6 +32,7 @@
 - https://leetcode.com/problems/binary-tree-preorder-traversal/description/
 - https://leetcode.com/problems/binary-tree-inorder-traversal/description/
 - https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/
+- https://leetcode.com/problems/course-schedule/description/
 
 ### Sorting and Searching
 - https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/
