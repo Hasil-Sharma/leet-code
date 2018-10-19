@@ -48,7 +48,7 @@ int main() {
         int ret = Solution().singleNumber(nums);
 
         string out = to_string(ret);
-        cout << out << endl;
+        cout << out << "\n";
     }
     return 0;
 }
