@@ -36,8 +36,10 @@
 
 ### Sorting and Searching
 - https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/
-- https://leetcode.com/problems/average-of-levels-in-binary-tree/description/
+- https://leetcode.com/problems/average-of-levels-in-binary-tr
+ee/description/
 
+https://leetcode.com/problems/majority-element/discuss/
 ### Array
 - https://leetcode.com/problems/shortest-unsorted-continuous-subarray/description/
 - https://leetcode.com/problems/subarray-sum-equals-k/description/
