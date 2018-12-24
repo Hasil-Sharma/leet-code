@@ -9,6 +9,7 @@
 - https://leetcode.com/problems/my-calendar-iii/description/
 - https://leetcode.com/problems/couples-holding-hands/description/
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
+- https://leetcode.com/problems/rotate-image/description/
 
 ### Backtracking
 - https://leetcode.com/problems/longest-palindromic-substring/description/
@@ -17,7 +18,6 @@
 - https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/discuss/
 - https://leetcode.com/problems/subsets/description/
 
-https://leetcode.com/problems/subsets/description
 ### Dynamic Programming
 - https://leetcode.com/problems/ones-and-zeroes/description/
 - https://leetcode.com/problems/knight-probability-in-chessboard/description/
