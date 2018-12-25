@@ -2,6 +2,7 @@
 ## Good Questions
 
 ### Ad-Hoc
+
 - https://leetcode.com/problems/single-number/description/
 - https://leetcode.com/problems/excel-sheet-column-number/description/
 - https://leetcode.com/problems/linked-list-cycle/description/
