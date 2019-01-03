@@ -11,6 +11,7 @@
 - https://leetcode.com/problems/couples-holding-hands/description/
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
 - https://leetcode.com/problems/rotate-image/description/
+- https://leetcode.com/problems/majority-element/description/
 
 ### Backtracking
 - https://leetcode.com/problems/longest-palindromic-substring/description/
