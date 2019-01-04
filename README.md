@@ -12,6 +12,7 @@
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
 - https://leetcode.com/problems/rotate-image/description/
 - https://leetcode.com/problems/majority-element/description/
+- https://leetcode.com/problems/number-of-islands/
 
 ### Backtracking
 - https://leetcode.com/problems/longest-palindromic-substring/description/
